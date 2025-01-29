@@ -1,0 +1,38 @@
+.randomImage {
+    background-color: rgb(175, 175, 171);
+    margin: 50px auto;
+    width: 70vw;
+    height: 60vh;
+
+
+
+}
+
+
+.randomImage img {
+    width: 100%;
+}
+
+.image-btn {
+    margin: 40px auto;
+    background-color: white;
+    border-radius: 9px;
+    padding: 18px 15px;
+    border: none;
+    cursor: pointer;
+    font-family: "Geist Mono", serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1rem;
+    display: block;
+
+
+}
+
+form {
+    margin: 0 auto;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    width: 50%;
+}
